@@ -1,0 +1,27 @@
+C:\Users\faisa\source\repos\Elevator\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\faisa\source\repos\Elevator\Elevator\bin\Debug\Elevator.exe
+C:\Users\faisa\source\repos\Elevator\Elevator\bin\Debug\Elevator.pdb
+C:\Users\faisa\source\repos\Elevator\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+C:\Users\faisa\source\repos\Elevator\Elevator\obj\Debug\Elevator.Elevator.resources
+C:\Users\faisa\source\repos\Elevator\Elevator\obj\Debug\Elevator.Properties.Resources.resources
+C:\Users\faisa\source\repos\Elevator\Elevator\obj\Debug\Elevator.csproj.GenerateResource.Cache
+C:\Users\faisa\source\repos\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\faisa\source\repos\Elevator\Elevator\obj\Debug\Elevator.exe
+C:\Users\faisa\source\repos\Elevator\Elevator\obj\Debug\Elevator.pdb
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\Elevator.exe
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\Elevator.pdb
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\mscorlib.dll
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\normidna.nlp
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\normnfc.nlp
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\normnfd.nlp
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\normnfkc.nlp
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\bin\Debug\normnfkd.nlp
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\obj\Debug\Elevator.csprojAssemblyReference.cache
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\obj\Debug\Elevator.Elevator.resources
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\obj\Debug\Elevator.Properties.Resources.resources
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\obj\Debug\Elevator.csproj.GenerateResource.cache
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\obj\Debug\Elevator.csproj.CopyComplete
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\obj\Debug\Elevator.exe
+C:\Users\faisa\Desktop\UoB\Year 2\Term 1\Objected Oriented Programming and Software Engineering\Assignment\Assignment 1\Elevator\obj\Debug\Elevator.pdb
